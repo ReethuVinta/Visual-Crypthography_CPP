@@ -1,6 +1,6 @@
-# Visual-Crypthography_CPP
+# Visual-cryptography_CPP
 
-Visual Cryptography is a cryptographic technique where a message is revealed as a visual image.
+Visual cryptography is a cryptographic technique where a message is revealed as a visual image.
 
 **2 members Secret Sharing:**
 
